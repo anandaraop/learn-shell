@@ -63,7 +63,6 @@ EOF
 
 # -e , [ -e /etc/file ]
 
-
 x=$1
 
 if [ $x -gt 100 ]; then
